@@ -13,18 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align='center'>
+<div align='left'>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Adam's%20GitHub&fontSize=30&animation=scaleIn)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Adam's%20GitHub&fontSize=30&animation=scaleIn)
 
 ### Welcome👋
 
 <p></p>
 
 ### Technology Stack📚
-<div align='center'>
-  </div>
+<div align='left'>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+</div>
     
 ### ...
 

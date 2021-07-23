@@ -36,10 +36,6 @@ Here are some ideas to get you started:
 
 </div>
     
-### ...
-
-
-    
 ### My stats 🤓
   
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kdh92417&show_icons=true)

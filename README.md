@@ -13,28 +13,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align='left'>
+<div align='center'>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Adam's%20GitHub&fontSize=30&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Adam's%20GitHub&fontSize=50&animation=twinkling)
 
 ### Welcome👋
 
 <p></p>
 
 ### Technology Stack📚
-<div align='left'>
+<div align='center'>
   <p>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
   </p>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>    
-  </p>
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
-
-</div>
+  </p>
     
 ### My stats 🤓
   

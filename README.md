@@ -40,7 +40,3 @@ Here are some ideas to get you started:
   
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kdh92417&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdh92417&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-### About Me
-  <a href="https://kdh92417.github.io/"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-</div>

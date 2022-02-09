@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align='center'>
   
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Adam's%20GitHub&fontSize=50&animation=twinkling)
 
 ### Welcome👋
 
-<p></p>
 
 ### Technology Stack📚
 <div align='center'>

@@ -1,42 +1,37 @@
+### I Love Data, and 🏃, 📚, ♂, 🎬 
 
-<!--
-**eunjeong09/eunjeong09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+데이터로서 사람들에게 이로운 영향력을 전파하고, 좋은 개발문화와 개발지식을 공유하고 싶어하는 개발자 김대휘입니다. <br>
+런닝과 산책 그리고 전시회 관람을 좋아하고 꾸준히 독서를 하고있습니다.
 
-Here are some ideas to get you started:
+- 📝 My Resume: <https://hwiva.notion.site/944f0382904c45f7b58564f685a32eb0>
+- 📫 How to reach me: kdh92417@gmail.com
+- 📝 I regularly write articles on [Blog](https://velog.io/@kdh92417)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skill
 
-<div align='center'>
-  
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Adam's%20GitHub&fontSize=50&animation=twinkling)
+- Language: 
+  ![Javascript](https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat&logo=Javascript&logoColor=%23F7DF1E)
+  ![Python3](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
 
-### Welcome👋
+- Backend: 
+  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white)
+
+- Frontend: 
+  ![Vuejs](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) 
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+
+- DevOps: 
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white) 
+  ![Github Actions](https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?&style=flat&logo=github%20actions&logoColor=white)
 
 
-### Technology Stack📚
-<div align='center'>
-  <p>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> 
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-    
-  </p>
+### Contribution
+
+- [Exporterhub.io - Add function get_exporter_contents](https://github.com/NexClipper/exporterhub.io/pull/90)
+
     
 ### My stats 🤓
   

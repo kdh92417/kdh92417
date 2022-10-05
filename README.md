@@ -1,7 +1,6 @@
 ### I Love Data, and 🏃, 📚, ♂, 🎬 
 
 데이터를 이용해서 사람들에게 이로운 영향력을 전파하고, 좋은 개발문화와 개발지식을 공유하고 싶어하는 개발자 김대휘입니다. <br>
-런닝과 산책 그리고 전시회 관람을 좋아하고 꾸준히 독서를 하고있습니다.
 
 - 📝 My Resume: <https://hwiva.notion.site/944f0382904c45f7b58564f685a32eb0>
 - 📫 How to reach me: kdh92417@gmail.com
